@@ -1,0 +1,10 @@
+{
+    "name": "mitriy/bug",
+    "description": "Домашнее задание по Composer",
+    "type": "project",
+    "license": "GNU GPL",
+    "minimum-stability": "stable",
+    "require -dev": {
+        "psr/log": "~1.0"
+    }
+}
